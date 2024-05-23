@@ -1,4 +1,4 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/100354349?v=4)
+           [![MasterHead](https://avatars.githubusercontent.com/u/100354349?v=4)
 <h1 align="center">Hi 👋, I'm Ali Cizmecioglu</h1>
 <h3 align="center">I can describe myself as a technology enthusiast who is devoted to installing nodes in testnet and blockchain projects. This exciting field attracts me from both a technical and theoretical perspective, and I am constantly working to improve my knowledge and skills in this field.</h3>
 
