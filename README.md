@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Cizmecioglu</h1>
-<h3 align="center">I can describe myself as a technology enthusiast who is devoted to installing nodes in testnet and blockchain projects. This exciting field attracts me from both a technical and theoretical perspective, and I am constantly working to improve my knowledge and skills in this field.</h3>
+<h1 align="center">alicizmecioglu</h1>
+<h3 align="center">A dedicated technology enthusiast with a focus on blockchain infrastructure. I am skilled in deploying and managing nodes on various testnets, contributing to the growth and development of decentralized networks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicizmecioglu&label=Profile%20views&color=0e75b6&style=flat" alt="alicizmecioglu" /> </p>
 
