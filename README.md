@@ -1,5 +1,7 @@
-<h1 align="center">alicizmecioglu</h1>
-<h3 align="center">A dedicated technology enthusiast with a focus on blockchain infrastructure. I am skilled in deploying and managing nodes on various testnets, contributing to the growth and development of decentralized networks.</h3>
+<h1 align="center">LINQNODE</h1>
+<h3 align="center">Experienced blockchain validator and node operator dedicated to maintaining network
+security and reliability. Specializing in proof-of-stake networks and contributing to the
+decentralized future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicizmecioglu&label=Profile%20views&color=0e75b6&style=flat" alt="alicizmecioglu" /> </p>
 
